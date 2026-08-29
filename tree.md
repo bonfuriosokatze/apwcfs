@@ -11,18 +11,16 @@ apwcfs/
 │   ├── API_SPEC.md
 │   ├── XAI.md
 │   └── VALIDATION.md
-│
 ├── frontend/
 │   ├── app/
 │   │   ├── layout.tsx
-│   │   ├── page.tsx                 
+│   │   ├── page.tsx
 │   │   ├── about/
-│   │   │   └── page.tsx             
+│   │   │   └── page.tsx
 │   │   ├── science/
-│   │   │   └── page.tsx             
+│   │   │   └── page.tsx
 │   │   └── dashboard/
-│   │       └── page.tsx           
-│   │
+│   │       └── page.tsx
 │   ├── components/
 │   │   ├── navigation/
 │   │   ├── map/
@@ -31,35 +29,28 @@ apwcfs/
 │   │   ├── pollution/
 │   │   ├── xai/
 │   │   └── ui/
-│   │
 │   ├── maps/
 │   ├── charts/
 │   └── lib/
-│
 ├── backend/
 │   ├── api/
 │   ├── services/
 │   ├── forecast/
 │   └── data/
-│
 ├── models/
 │   ├── wrf-chem/
 │   ├── preprocessing/
 │   ├── postprocessing/
 │   ├── baseline/
 │   └── xai/
-│
 ├── data/
 │   ├── raw/
 │   ├── processed/
 │   └── examples/
-│
 ├── scripts/
 │   ├── ingestion/
 │   ├── preprocessing/
 │   ├── forecasting/
 │   └── evaluation/
-│
 ├── tests/
-│
 └── docker/
