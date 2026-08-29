@@ -1,8 +1,8 @@
-# Palm Beach — Atmospheric Model Options
+# APWCFS — Atmospheric Model Options
 
 ## 1. Purpose
 
-This document describes candidate scientific modelling approaches for the Palm Beach forecasting system.
+This document describes candidate scientific modelling approaches for the APWCFS forecasting system.
 
 The product requirement is a **72-hour Delhi NCR air-quality forecast** that can represent the interaction between meteorology and atmospheric chemistry.
 
@@ -59,7 +59,7 @@ Forecast Dataset   Diagnostics
       Forecast API / Files
              │
              ▼
-        Palm Beach
+         APWCFS
          Dashboard
 ```
 
@@ -579,7 +579,7 @@ The product should communicate this honestly.
 
 # 16. Recommended Final Architecture
 
-For Palm Beach, the strongest long-term concept is:
+For APWCFS, the strongest long-term concept is:
 
 ```text
                  OBSERVATIONS
@@ -617,7 +617,7 @@ For Palm Beach, the strongest long-term concept is:
           │                       │
           └───────────┬───────────┘
                       ▼
-                PALM BEACH
+                APWCFS
                  DASHBOARD
 ```
 

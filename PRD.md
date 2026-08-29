@@ -1,4 +1,4 @@
-# Palm Beach — Product Requirements Document (PRD)
+# APWCFS — Product Requirements Document (PRD)
 
 **Project:** Air Pollution – Weather Coupled Forecasting System  
 **Focus:** Delhi NCR  
@@ -9,7 +9,7 @@
 
 ## 1. Product Vision
 
-Palm Beach is a public-facing environmental intelligence platform for understanding **where pollution is, where it is going, when it is expected to worsen, and why**.
+APWCFS is a public-facing environmental intelligence platform for understanding **where pollution is, where it is going, when it is expected to worsen, and why**.
 
 The product should not feel like a generic AQI website. Its central experience is a **forecast map + explanation layer**:
 
@@ -493,4 +493,4 @@ The product should always answer:
 **Why** — XAI + meteorology + emissions  
 **What next** — expected evolution and impact
 
-That should be the organizing principle of Palm Beach.
+That should be the organizing principle of APWCFS.

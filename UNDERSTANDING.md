@@ -1,8 +1,8 @@
-# Palm Beach — Project Understanding
+# APWCFS — Project Understanding
 
 ## 1. One-Line Understanding
 
-Palm Beach is a **Delhi NCR-focused 72-hour air-pollution forecasting and explanation platform** that combines atmospheric modelling, regional emission context, geospatial visualization, and XAI.
+APWCFS is a **Delhi NCR-focused 72-hour air-pollution forecasting and explanation platform** that combines atmospheric modelling, regional emission context, geospatial visualization, and XAI.
 
 ---
 
@@ -318,7 +318,7 @@ A normal forecast app:
 AQI → Number + Future Number
 ```
 
-Palm Beach:
+APWCFS:
 
 ```text
 AQI
@@ -384,6 +384,6 @@ If not, it probably does not belong in the first product version.
 
 # 14. Current Working Definition
 
-**Palm Beach is a scientific visualization and forecasting product for Delhi NCR that turns coupled atmospheric and pollution modelling into a simple, interactive 72-hour map-based experience with explainable predictions.**
+**APWCFS is a scientific visualization and forecasting product for Delhi NCR that turns coupled atmospheric and pollution modelling into a simple, interactive 72-hour map-based experience with explainable predictions.**
 
 This definition can evolve as the scientific architecture is validated.

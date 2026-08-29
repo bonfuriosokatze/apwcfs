@@ -1,8 +1,8 @@
-# Palm Beach — Design Specification
+# APWCFS — Design Specification
 
 ## 1. Design Direction
 
-Palm Beach should feel like a **modern environmental intelligence platform**, not a conventional government dashboard and not a generic weather app.
+APWCFS should feel like a **modern environmental intelligence platform**, not a conventional government dashboard and not a generic weather app.
 
 Design keywords:
 
